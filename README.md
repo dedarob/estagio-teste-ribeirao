@@ -1,6 +1,7 @@
 # estagio-teste-ribeirao
 Teste de estágio<br />
 Respostas <br />
+1, 2 e 3 dentro da pasta 'src' logo acima <br />
 <br />
 4 - a) numeros impares - 9 <br />
 b) dobro do número anterior - 128 <br />
